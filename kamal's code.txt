@@ -1,0 +1,62 @@
+<div class="wrapper"> 
+	<div class="side">
+		<div class="bg"></div>
+		<div>
+			<h3>Visual Treat</h3>
+		</div>
+		<input type="text" class="search" placeholder="Search" />
+		<ul class="menu">
+			<i class="zmdi zmdi-calendar"></i> Coming Soon
+			</li>
+		</ul>
+	</div>
+	<div class="main-wrap">
+		<div class="main">
+			<div class="list">
+				<div class="scroll">
+					<button class="scrollTop"><i class="zmdi zmdi-arrow-left"></i></button>
+					<button class="scrollDown"><i class="zmdi zmdi-arrow-right"></i></button>
+				</div>
+				<header>
+					<ul class="filter">
+						<li data-gid="," class="selected">All</li>
+						<li data-gid="28">Action</li>
+						<li data-gid="12">Adventures</li>
+						<li data-gid="35">Comedy</li>
+						<li data-gid="18">Drama</li>
+					</ul>
+				</header>
+				<div class="content">
+					<ul class="covers"></ul>
+				</div>
+			</div>
+			<div class="checkout">
+				<div class="sinopsis">
+					<button class="back">
+						<i class="zmdi zmdi-arrow-left"></i>
+					</button>						
+					<img class="cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8zw8AAhMBENYXhyAAAAAASUVORK5CYII=" style="background-image: url(https://image.tmdb.org/t/p/w300//gfJGlDaHuWimErCr5Ql0I8x9QSy.jpg)">
+					<h3>LEO</h3>
+<img src="C:\Users\Student\Downloads\leo.jpg" width="100px" height="100px">
+					<p>Parthiban is a mild mannered cafe owner in kashmir,when he fends off a gang of murderous thugs,he gains attention from a drug cartel who claims he was once, a part of them</p>
+					<span>Thurs, 19 Oct </span>
+					<small>6:00pm (2h 43m)</small>
+				</div>
+				<section>
+					<ul class="Recliner">
+						<li>available</li>
+						<li>taken</li>
+					</ul>
+					<span>Select your seats</span>
+					<div class="seats"></div>
+					<div class="screen">Screen 5</div>
+				</section>
+				<div class="total">
+					<small>Total </small><span>Rs.250</span>
+					<button>CHECKOUT</button>
+					<div class="loader"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
